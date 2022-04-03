@@ -1,0 +1,44 @@
+/*
+  ****************************************
+  GLOBAL
+  ****************************************
+ */
+body{
+    font-size: 16px;
+    background-color: #626f42;
+}
+
+.nav{
+    margin-top: 10px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.content{
+    background-color: white;
+}
+.section{
+    margin-bottom: 50px;
+}
+.card{
+    height: 300px;
+    margin: 15px;
+    padding: 15px;
+    background-color: #F8F8F8;
+    border: 1px solid #e7e7e7;
+    border-radius: 4px;
+}
+.block-image{
+    width: 240px;
+}
+
+#footer{
+    color: white;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.soc-icon{
+    height: 24px;
+    width: 24px;
+    margin: 0 4px;
+}
