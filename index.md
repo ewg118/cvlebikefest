@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: CVLEBIKEFEST p/b The Dairy Market
 ---
@@ -12,11 +9,14 @@ title: CVLEBIKEFEST p/b The Dairy Market
 
 <div class="row">
 	<div class="col-md-8">
-	<p>The <a href="https://cvilleracing.com">Charlottesville Racing Club</a> and UVA Cycling Club are proud to announce the inaugural CVLEBIKEFEST presented by <a href="https://dairymarketcville.com/">The Dairy Market</a> on Saturday, April 16 from 10 AM to 4 PM! The day long fest will be a series of Criterium races, a kids race and a bike parade. The aim of the Fest is to not only bring a series of high-quality bike races to Charlottesville (the first of their kind in 30 years), but also fundraise for the local non-profit bicycle shop, <a href="https://www.charlottesvillecommunitybikes.org/">Charlottesville Community Bikes (CCB)</a>. CCB promotes environmentally-sound transportation, recycles bicycles, and makes biking accessible to the local community and believes equitable access to affordable, reliable bike transportation can be transformative to people in need. This fundraiser will go towards helping CCB expand their youth programming. You can make a difference by donating <a href="https://www.gofundme.com/f/charlottesville-criterium">here</a>.</p>
-	
-	<p>Register at <a href="https://www.bikereg.com/charlottesville-criterium">https://www.bikereg.com/charlottesville-criterium</a>!</p>
+	<p>The Charlottesville Racing Club and UVA Cycling Club are proud to announce the inaugural CVLEBIKEFEST presented by <a href="https://dairymarketcville.com/">The Dairy Market</a> on Saturday, April 16 from 10 AM to 4 PM! The day long fest will be a series of Criterium races, a kids race and a bike parade. The aim of the Fest is to not only bring a series of high-quality bike races to Charlottesville (the first of their kind in 30 years), but also fundraise for the local non-profit bicycle shop, <a href="https://www.charlottesvillecommunitybikes.org/">Charlottesville Community Bikes (CCB)</a>. CCB promotes environmentally-sound transportation, recycles bicycles, and makes biking accessible to the local community and believes equitable access to affordable, reliable bike transportation can be transformative to people in need. This fundraiser will go towards helping CCB expand their youth programming. You can make a difference by donating <a href="https://www.gofundme.com/f/charlottesville-criterium">here</a>.</p>
 	
 	<p>The Charlottesville Criterium and Bike Fest wouldn't be possible without the support of the Dairy Market and our other <a href="sponsors">sponsors</a>.</p>
+	
+	<p><strong>Register</strong> at <a href="https://www.bikereg.com/charlottesville-criterium">https://www.bikereg.com/charlottesville-criterium</a>!</p>	
+	
+	<p><strong>Interested in volunteering?</strong> We need your help to make this event a success. Sign up <a href="https://www.signupgenius.com/go/8050445a5ab22a6fd0-charlottesville">here</a>.</p>
+    <p><strong>See the <a href="faq">FAQ</a></strong> for more information about parking and registration.</p>
 	</div>
 
 	<div class="col-md-4">
@@ -25,9 +25,11 @@ title: CVLEBIKEFEST p/b The Dairy Market
 </div>
 
 ### Event Schedule and Prizes
-See the [Race Flyer]({{site.baseurl}}/content/CBF-InfoFlyer-Final-Burley.pdf) for more information about the schedule and prize distribution. Primes will also be awarded in various races.
+See the [Race Flyer]({{site.baseurl}}/content/CBF-InfoFlyer.pdf) for more information about the schedule and prize distribution. Primes will also be awarded in various races.
 
-The course has been mapped out on Strava.
+The course has been mapped out on [Strava](https://www.strava.com/routes/2916879606499550452).
+
+<img src="{{site.baseurl}}/images/course_map.jpg" alt="Course Map" style="max-width:100%"/>
 
 ### Family Fun
 This be will a fun event for the family. The city has graciously allowed us to close off Preston ave. and the portion of Grady directly in front of Dairy Market. We have ample space to watch racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. See below for more info on food and beverage options.
