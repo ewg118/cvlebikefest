@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVLEBIKEFEST p/b The Dairy Market Racing Teams
-permalink: /teams
+permalink: /teams/
 ---
 
 ## Teams

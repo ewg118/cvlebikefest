@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVLEBIKEFEST p/b The Dairy Market Sponsors
-permalink: /sponsors
+permalink: /sponsors/
 ---
 
 ## {{page.title}}

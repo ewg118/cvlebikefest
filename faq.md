@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVLEBIKEFEST p/b The Dairy Market FAQ
-permalink: /faq
+permalink: /faq/
 ---
 
 ## Frequently Asked Questions

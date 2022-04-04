@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVLEBIKEFEST p/b The Dairy Market Restaurant Guide
-permalink: /restaurants
+permalink: /restaurants/
 ---
 
 ## Food, Drinks, and More
