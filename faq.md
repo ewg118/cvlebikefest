@@ -24,3 +24,5 @@ How do I sign up for the Juniors race (ages 9-18)? There are two steps involved 
 **Will it be fun for adults?** Yes! Besides watching the racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. 
 
 **I’m an adult and I want race, can I?** Yes! Sign-up is in at the same site where Juniors will sign-up: [https://www.bikereg.com/charlottesville-criterium](https://www.bikereg.com/charlottesville-criterium).
+
+**I want to help. How do I volunteer?** We need your help to make this event a success. We have several shifts throughout the day for course marshals (to be positioned at several intersections) to allow pedestrians to cross the course when safe. Registration tent slots have already been filled. Fill in [this](https://www.signupgenius.com/go/8050445a5ab22a6fd0-charlottesville) form to volunteer.

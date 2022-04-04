@@ -8,3 +8,8 @@
 <link href="//fonts.googleapis.com/css2?family=Karla:wght@300&display=swap" rel="stylesheet"></link>
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css"></link>
+
+{% if site.image %}
+<meta name="twitter:image" content="{{ site.baseurl }}{{ site.image }}"></meta>
+<meta name="og:image" content="{{ site.baseurl }}{{ site.image }}"></meta>
+{% endif %}
