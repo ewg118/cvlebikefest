@@ -17,7 +17,7 @@ How do I sign up for the Juniors race (ages 9-18)? There are two steps involved 
 
 **How do I sign up for the kids race (ages 8 and under)?** Sign up will be on race day at the registration table (in front of the Dairy Market) and must be complete before 11:30am. Helmets are required!
 
-**Where can I park?** Free parking is available either at Jackson P Burley Middle School ([901 Rose Hill Dr](https://goo.gl/maps/aFuSNLRJ3kKz8CEb8)) or the Albemarle County Office Building ([401 McIntire Rd](https://goo.gl/maps/76Aa7KmTseMTNmDo8)).
+**Where can I park?** Free parking is available either at Jackson P Burley Middle School ([901 Rose Hill Dr](https://goo.gl/maps/aFuSNLRJ3kKz8CEb8)) or the Albemarle County Office Building ([401 McIntire Rd](https://goo.gl/maps/76Aa7KmTseMTNmDo8)). There is also paid parking at the Dairy Market (first hour is free).
 
 **How can I support Community Bikes?** You can make financial donations to this [GoFundMe](https://www.gofundme.com/f/charlottesville-criterium). And, you can find out about more ways to get involved at their [website](https://www.charlottesvillecommunitybikes.org).
 
