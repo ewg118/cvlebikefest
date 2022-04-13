@@ -11,6 +11,7 @@ title: CVLEBIKEFEST p/b The Dairy Market
 <div class="row">
 	<div class="col-md-8">
 	<p>The Charlottesville Racing Club and UVA Cycling Club are proud to announce the inaugural CVLEBIKEFEST presented by <a href="https://dairymarketcville.com/">The Dairy Market</a> on Saturday, April 16 from 10 AM to 4 PM! The day long fest will be a series of Criterium races, a kids race and a bike parade. The aim of the Fest is to not only bring a series of high-quality bike races to Charlottesville (the first of their kind in 30 years), but also fundraise for the local non-profit bicycle shop, <a href="https://www.charlottesvillecommunitybikes.org/">Charlottesville Community Bikes (CCB)</a>. CCB promotes environmentally-sound transportation, recycles bicycles, and makes biking accessible to the local community and believes equitable access to affordable, reliable bike transportation can be transformative to people in need. This fundraiser will go towards helping CCB expand their youth programming. You can make a difference by donating <a href="https://www.gofundme.com/f/charlottesville-criterium">here</a>.</p>
+	<p>CRC is also pleased to also offer a raffle to support the financing of this event. Courtesy of our sponsor [Wintergreen Resort](https://www.wintergreenresort.com/), we are able to offer two equal prizes of 1 night in the hotel at Wintergreen + 2 lift tickets. You can purchase tickets <a href="https://go.rallyup.com/charlottesville-criterium-pb-thedairymarket/Campaign/Details">here</a>!</p>
 	
 	<p>The Charlottesville Criterium and Bike Fest wouldn't be possible without the support of the Dairy Market and our other <a href="sponsors">sponsors</a>.</p>
 	
@@ -57,7 +58,7 @@ How do I sign up for the Juniors race (ages 9-18)? There are two steps involved 
 
 **How do I sign up for the kids race (ages 8 and under)?** Sign up will be on race day at the registration table (in front of the Dairy Market) and must be complete before 11:30am. Helmets are required!
 
-**Where can I park?** Free parking is available either at Jackson P Burley Middle School ([901 Rose Hill Dr](https://goo.gl/maps/aFuSNLRJ3kKz8CEb8)) or the Albemarle County Office Building ([401 McIntire Rd](https://goo.gl/maps/76Aa7KmTseMTNmDo8)). There is also paid parking at the Dairy Market (first hour is free).
+**Where can I park?** Free parking is available either at the Albemarle County Office Building ([401 McIntire Rd](https://goo.gl/maps/76Aa7KmTseMTNmDo8)), the Jefferson School City Center [233 4th St. NW](https://goo.gl/maps/zw6AuKjHs948r6NbA), or Jackson P Burley Middle School ([901 Rose Hill Dr](https://goo.gl/maps/aFuSNLRJ3kKz8CEb8)) (but only after 12 pm at Burley Middle School due to another event). There is also paid parking at the Dairy Market (first hour is free).
 
 **How can I support Community Bikes?** You can make financial donations to this [GoFundMe](https://www.gofundme.com/f/charlottesville-criterium). And, you can find out about more ways to get involved at their [website](https://www.charlottesvillecommunitybikes.org).
 
