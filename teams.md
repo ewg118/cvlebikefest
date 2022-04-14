@@ -18,7 +18,7 @@ Charlottesville is home to several clubs, including two racing teams. The Charlo
 		<br/>
 		Design by Cutaway USA
 	</div>
-		<div class="col-md-4 text-center">
+	<div class="col-md-4 text-center">
 		<img src="{{site.baseurl}}/images/jerseys/UVA_2022W-01.png" alt="University of Virginia" style="width:100%"/>
 		<br/>
 		University of Virginia
@@ -32,4 +32,10 @@ Charlottesville is home to several clubs, including two racing teams. The Charlo
 
 ### The Visitors
 
-Stay tuned
+<div class="row">
+	<div class="col-md-4 text-center">
+		<img src="{{site.baseurl}}/images/jerseys/metacc.jpg" alt="META.cc" style="width:100%"/>
+		<br/>
+		<a href="https://www.instagram.com/meta.cc/">META.cc</a>
+	</div>
+</div>
