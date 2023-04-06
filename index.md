@@ -21,12 +21,15 @@ title: CVLEBIKEFEST p/b The Dairy Market
 	</div>
 
 	<div class="col-md-4">
-		<img src="{{site.baseurl}}/images/CBF-General-03-Revised.png" style="max-width:100%"/>
+		<img src="{{site.baseurl}}/images/cbf-tile.jpg" style="max-width:100%"/>
 	</div>
 </div>
 
 ### Event Schedule and Prizes
+See the [Race Flyer]({{site.baseurl}}/content/CBF-InfoFlyer-2023-Final.pdf) for more information about the schedule and prize distribution. Primes will also be awarded in various races.
+
 See the [Bikereg page](https://www.bikereg.com/charlottesville-criterium) for more information about the schedule and prize distribution. Primes will also be awarded in various races.
+
 
 ### Course 
 This is a fun, 6 corner course near downtown Charlottesville. There is one uphill kicker halfway through the course with a chicane at the top; and the finishing straight is on a wide 3% uphill drag. There are definitely attack points on this course with the opportunity to make the race exciting!
@@ -36,7 +39,7 @@ The course has been mapped out on [Strava](https://www.strava.com/routes/2916879
 <img src="{{site.baseurl}}/images/course_map.jpg" alt="Course Map" style="max-width:100%"/>
 
 ### Family Fun
-This be will a fun event for the family. The city has graciously allowed us to close off Preston ave. and the portion of Grady directly in front of Dairy Market. We have ample space to watch racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. See below for more info on food and beverage options.
+This be will a fun event for the family. The city has graciously allowed us to close off Preston ave. and the portion of Grady directly in front of Dairy Market. We have ample space to watch racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. The Dairy Market will host bike decorating, face painting, and a small petting zoo for children. See below for more info on food and beverage options.
 
 **There will be a Juniors race**: The race is Criterium for ages 9-18 at 10am that lasts 20 minutes. There are two steps involved and both MUST be done BEFORE race day: 1) Obtain USA Cycling membership (free for Juniors!). Please see [https://usacycling.org/juniors/](https://usacycling.org/juniors/) for further information. 2) Sign up for Event here: [https://www.bikereg.com/charlottesville-criterium](https://www.bikereg.com/charlottesville-criterium).
 
