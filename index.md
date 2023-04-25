@@ -60,7 +60,7 @@ How do I sign up for the Juniors race (ages 9-18)? There are two steps involved 
 
 **How can I support Community Bikes?** Community Bikes is running a silent [auction fundraiser](https://givebutter.com/c/cbikes2023/auction) of great local goods and services at the Charlottesville Bike Fest and Jeff Cup Road Race that will end on the following weekend. And, you can find out about more ways to get involved at their [website](https://www.charlottesvillecommunitybikes.org).
 
-**Will it be fun for adults?** Yes! Besides watching the racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. 
+**Will it be fun for adults?** Yes! Besides watching the racers whiz by on the course, we have partnered with the Dairy Market, who have all sorts of food and beverage vendors who will be participating in the event. The Charlottesville Ale Trail is organizing a [Pints on Preston](https://www.eventbrite.com/e/pints-on-preston-tickets-597769102477) after-party from 2-8pm, hosting by Rockfish Brewing and Fifth Season Garden Center on Preston Ave. It will include numerous local breweries, ciders, and distilleries.
 
 **I’m an adult and I want race, can I?** Yes! Sign-up is in at the same site where Juniors will sign-up: [https://www.bikereg.com/charlottesville-criterium](https://www.bikereg.com/charlottesville-criterium).
 
