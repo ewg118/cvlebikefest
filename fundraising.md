@@ -28,6 +28,6 @@ permalink: /fundraising/
 
 In Summer 2021, CCB piloted a biking program for middle schoolers at the Boys and Girls Club, and they plan to expand their youth riding programs in 2022. This fundraiser will go towards helping CCB expand their youth programming. 
 
-A GoFundMe for this event has been established at [https://www.gofundme.com/f/charlottesville-criterium](https://www.gofundme.com/f/charlottesville-criterium).
+Check out their [silent auction fundraiser](https://givebutter.com/c/cbikes2023/auction) to bid on great goods and services!
 
 Racers from out of town can also make a huge difference by bringing bicycles or components (both new and used). Community Bikes is always looking for donations, both large and small, of materials they can repurpose to broaden access to cycling among the local community. They'll accept anything ranging from fully-intact bikes to bike frames and smaller parts like tubes, tires, and chains.
